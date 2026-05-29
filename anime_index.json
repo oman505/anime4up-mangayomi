@@ -1,4 +1,4 @@
-{
+[{
   "name": "Anime4Up",
   "id": "anime4up",
   "baseUrl": "https://w1.anime4up.rest",
@@ -9,3 +9,4 @@
   "pkgPath": "https://raw.githubusercontent.com/oman505/anime4up-mangayomi/main/anime4up.js",
   "sourceCodeUrl": "https://github.com/oman505/anime4up-mangayomi"
 }
+]
