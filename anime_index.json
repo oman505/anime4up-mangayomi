@@ -1,11 +1,23 @@
 [{
   "name": "Anime4Up",
-  "id": "anime4up",
+  "id": "1061885186",
   "baseUrl": "https://w1.anime4up.rest",
   "lang": "ar",
-  "typeSource": "anime",
-  "iconUrl": "https://w1.anime4up.rest/wp-content/themes/Anime4uP/images/logo.png",
+  "typeSource": "single",
+  "iconUrl": "https://raw.githubusercontent.com/oman505/anime4up-mangayomi/main/anime/src/ar/icon.png",
+  "dateFormat": "",
+  "dateFormatLocale": "",
+  "isNsfw": false,
+  "hasCloudflare": false,
+  "sourceCodeUrl": "https://github.com/oman505/anime4up-mangayomi",
+  "apiUrl": "",
   "version": "0.1.5",
-  "pkgPath": "https://raw.githubusercontent.com/oman505/anime4up-mangayomi/main/anime/src/ar/anime4up.js",  "sourceCodeUrl": "https://github.com/oman505/anime4up-mangayomi"
-}
-]
+  "isManga": false,
+  "itemType": 1,
+  "isFullData": false,
+  "appMinVerReq": "0.5.0",
+  "additionalParams": "",
+  "sourceCodeLanguage": 0,
+  "notes": "",
+  "pkgPath": "https://raw.githubusercontent.com/oman505/anime4up-mangayomi/main/anime/src/ar/anime4up.js"
+}]
